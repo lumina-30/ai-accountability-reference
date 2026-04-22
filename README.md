@@ -1,4 +1,4 @@
-﻿## Position within LUMINA-30
+## Position within LUMINA-30
 Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
 This repository exists within the LUMINA-30 civilizational boundary reference structure.
@@ -26,6 +26,7 @@ If you are new to this repository:
 - Overview → see the section below
 - Core procedural safeguards → see "Core Procedural Documents"
 - Terminology clarification → see terminology-related documents
+- Accountability language role → see "Main Function / 主機能"
 
 ---
 
@@ -137,11 +138,43 @@ It exists solely as a neutral reference object within discussions concerning ins
 
 ---
 
+## Main Function / 主機能
+
+This repository is the accountability-language layer for the broader LUMINA-30 network.
+
+It should help readers answer:
+- what must be provable after the fact
+- how refusal effectiveness can be described institutionally
+- when record weakness becomes procedural invalidity
+- how responsibility continuity can be preserved across review layers
+
+このリポジトリは、LUMINA-30ネットワーク全体における説明責任言語層である。
+
+主に次を扱う。
+- 事後に何を証明できなければならないか
+- 拒否有効性を制度言語でどう記述するか
+- 記録の弱さがいつ手続無効になるか
+- 責任連続性をどう保持するか
+
+---
+
+## Planned aggregation role / 集約先としての役割
+
+This repository is the natural aggregation point for minimal accountability terminology and post-hoc responsibility wording.
+
+It is the appropriate destination for compact terminology and accountability-facing reference material that does not need to remain a separate repository.
+
+このリポジトリは、最小説明責任用語や事後責任文言の自然な集約先である。
+
+独立repoで残す必要が薄い、簡潔な用語集・説明責任向け参照資料の受け皿として適切である。
+
+---
+
 Related references:
 - Stop Authority (Reference)
 - Institutional Friction Toolkit
 - Post-Incident Review Structures
-  
+
 ---
 
 ## Related Conceptual Reference
@@ -188,4 +221,3 @@ License
 
 Released under CC0 (public domain).
 No attribution required.
-
