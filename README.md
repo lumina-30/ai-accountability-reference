@@ -1,13 +1,25 @@
 ## Position within LUMINA-30
-Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
-This repository exists within the LUMINA-30 civilizational boundary reference structure.
+Primary users / 主な対象者: legal, audit, risk, compliance, and governance readers.  
+法務、監査、リスク管理、コンプライアンス、ガバナンス担当者向け。
 
-It is non-binding and descriptive.
-It does not mandate action, propose policy, or prescribe implementation.
+Use this repository when the issue is accountability wording, responsibility continuity, audit language, or institutional explanation.  
+説明責任、責任連続性、監査文言、制度的説明の整理が必要な場合に使用。
 
-Hub (structural map):
-https://github.com/lumina-30/lumina-30-overview
+For incident triage or boundary checks, use the incident-review repository first.  
+事故の初動判定や境界確認では、先に incident-review 側を使用。
+
+- [Incident Review Hub / 事故レビュー主ハブ](https://github.com/lumina-30/lumina30-incident-review)  
+  Use this when accountability language must be tied to a specific incident review.  
+  具体的な事故レビューと説明責任を接続する場合に使用。
+
+- [Stop Authority Reference / 停止権限参照](https://github.com/lumina-30/stop-authority-reference)  
+  Use this when the meaning of refusal authority or stop authority must be stated precisely.  
+  refusal authority / stop authority の意味を精密に確認する場合に使用。
+
+- [Lumi30-Index / LUMINA-30 索引](https://github.com/lumina-30/Lumi30-Index)  
+  Use this to return to the full repository network.  
+  repo群全体の導線に戻る場合に使用。
 
 ---
 
@@ -177,10 +189,11 @@ Related references:
 
 ---
 
-## Related Conceptual Reference
+## Related Conceptual Reference / 関連する概念参照
 
-- LUMINA-30 — Civilizational boundary reference  
-  https://github.com/lumina-30/LUMINA-30
+- [LUMINA-30 Core Boundary Reference / LUMINA-30 中核境界参照](https://github.com/lumina-30/LUMINA-30)  
+  Use this when you need the canonical boundary reference behind the accountability language.  
+  説明責任言語の背後にある中核境界参照を確認する場合に使用。
 
 ---
 
@@ -198,22 +211,18 @@ No endorsement, adoption, or obligation is implied.
 
 ## Related Reference
 
-Supplementary Canonical Reference (SUP):
-https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f01e0720ec88080b2a4cb336c2fd8be
+Supplementary Canonical Reference (SUP):  
+[SUP LUMINA-30 聖域憲章（日本語）](https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f01e0720ec88080b2a4cb336c2fd8be)  
+Japanese supplementary canonical reference.  
+日本語版の補助正典参照。
 
 ---
 
-## Structural Context
+## Structural Context / 構造上の位置づけ
 
-For structural overview of the broader LUMINA-30 framework:  
-https://github.com/lumina-30/lumina-30-overview
-
----
-
-### Related References
-
-- Overview  
-  https://github.com/lumina-30/lumina-30-overview
+- [LUMINA-30 Overview / LUMINA-30 概要](https://github.com/lumina-30/lumina-30-overview)  
+  Use this for the broader conceptual overview and visual navigation.  
+  全体の概念概要と視覚導線を確認する場合に使用。
 
 ---
 
