@@ -101,6 +101,19 @@ Non-normative and non-binding
 
 No implementation guidance, enforcement model, or compliance requirement is implied.
 
+
+## Connection to the LUMINA-30 Boundary Question / LUMINA-30境界問いへの接続
+
+This repository translates responsibility, auditability, and institutional accountability into review language. It should remain connected to the core LUMINA-30 question:
+
+**Was Human Refusal Authority still effective before Irreversible Impact?**
+
+このrepoは、責任・監査可能性・制度的説明責任をレビュー用語へ変換する。常にLUMINA-30の中核問いへ接続して読む。
+
+**不可逆的影響の前に、人間の拒否権は実効的に残っていたか。**
+
+Without this boundary question, accountability review may identify who answered after the fact while missing whether anyone could still refuse before irreversible impact.
+
 Typical Use Contexts
 
 This material may be relevant in situations such as:
@@ -230,3 +243,4 @@ License
 
 Released under CC0 (public domain).
 No attribution required.
+
