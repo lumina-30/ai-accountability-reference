@@ -1,6 +1,8 @@
+# AI Accountability Reference
+
 ## Position within LUMINA-30
 
-Primary users / 主な対象者: legal, audit, risk, compliance, and governance readers.  
+Primary users ｜ 主な対象者: legal, audit, risk, compliance, and governance readers.  
 法務、監査、リスク管理、コンプライアンス、ガバナンス担当者向け。
 
 Use this repository when the issue is accountability wording, responsibility continuity, audit language, or institutional explanation.  
@@ -9,21 +11,21 @@ Use this repository when the issue is accountability wording, responsibility con
 For incident triage or boundary checks, use the incident-review repository first.  
 事故の初動判定や境界確認では、先に incident-review 側を使用。
 
-- [Incident Review Hub / 事故レビュー主ハブ](https://github.com/lumina-30/lumina30-incident-review)  
+- [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)  
   Use this when accountability language must be tied to a specific incident review.  
   具体的な事故レビューと説明責任を接続する場合に使用。
 
-- [Stop Authority Reference / 停止権限参照](https://github.com/lumina-30/stop-authority-reference)  
+- [Stop Authority Reference ｜ 停止権限参照](https://github.com/lumina-30/stop-authority-reference)  
   Use this when the meaning of refusal authority or stop authority must be stated precisely.  
   refusal authority / stop authority の意味を精密に確認する場合に使用。
 
-- [Lumi30-Index / LUMINA-30 索引](https://github.com/lumina-30/Lumi30-Index)  
+- [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)  
   Use this to return to the full repository network.  
   repo群全体の導線に戻る場合に使用。
 
 ---
 
-AI Accountability Reference
+## Reference Status ｜ 参照ステータス
 
 This material:
 - is not a recommendation.
@@ -38,14 +40,15 @@ If you are new to this repository:
 - Overview → see the section below
 - Core procedural safeguards → see "Core Procedural Documents"
 - Terminology clarification → see terminology-related documents
-- Accountability language role → see "Main Function / 主機能"
+- Accountability language role → see "Main Function ｜ 主機能"
 
 ---
 
-Overview
+## Overview ｜ 概要
+
 This reference may be relevant to discussions on AI governance, singularity risk, refusal authority, and institutional decision accountability.
 
-AI Accountability Reference
+### Repository Scope ｜ リポジトリの範囲
 
 This repository provides structured references related to:
 
@@ -65,44 +68,34 @@ It does not advocate adoption, restriction, or intervention.
 
 The purpose of this repository is to clarify structural questions that commonly arise in post-incident reviews, audit processes, governance assessments, and institutional evaluations involving AI-enabled decision systems.
 
-Context
+## Context ｜ 文脈
 
 In cases involving high-impact autonomous decisions, institutions often face recurring questions related to:
 
-Decision authority and final refusal points
-
-Oversight structure and human intervention capacity
-
-Audit logging and record preservation
-
-Accountability attribution
-
-Procedural delay and cooling-off mechanisms
-
-Responsibility distribution within organizations
-
-Repeatability and precedent formation
-
-Institutional review validity
+- Decision authority and final refusal points
+- Oversight structure and human intervention capacity
+- Audit logging and record preservation
+- Accountability attribution
+- Procedural delay and cooling-off mechanisms
+- Responsibility distribution within organizations
+- Repeatability and precedent formation
+- Institutional review validity
 
 This repository consolidates reference concepts and procedural descriptions relevant to those contexts.
 
-Scope
+## Scope ｜ 範囲
 
 The materials here are:
 
-Descriptive, not prescriptive
-
-Structural, not ideological
-
-Institutional, not technological
-
-Non-normative and non-binding
+- Descriptive, not prescriptive
+- Structural, not ideological
+- Institutional, not technological
+- Non-normative and non-binding
 
 No implementation guidance, enforcement model, or compliance requirement is implied.
 
 
-## Connection to the LUMINA-30 Boundary Question / LUMINA-30境界問いへの接続
+## Connection to the LUMINA-30 Boundary Question ｜ LUMINA-30境界問いへの接続
 
 This repository translates responsibility, auditability, and institutional accountability into review language. It should remain connected to the core LUMINA-30 question:
 
@@ -114,47 +107,33 @@ This repository translates responsibility, auditability, and institutional accou
 
 Without this boundary question, accountability review may identify who answered after the fact while missing whether anyone could still refuse before irreversible impact.
 
-Typical Use Contexts
+## Typical Use Contexts ｜ 典型的な使用文脈
 
 This material may be relevant in situations such as:
 
-Post-incident accountability review
-
-Institutional audit of AI decision processes
-
-Governance redesign discussions
-
-Oversight failure analysis
-
-Autonomous system deployment evaluation
-
-High-impact system approval review
+- Post-incident accountability review
+- Institutional audit of AI decision processes
+- Governance redesign discussions
+- Oversight failure analysis
+- Autonomous system deployment evaluation
+- High-impact system approval review
 
 It is intended to clarify structural responsibility questions, not to recommend specific controls.
 
-Keywords and Concept Areas
+## Keywords and Concept Areas ｜ キーワード・概念領域
 
-AI accountability
+- AI accountability
+- AI governance
+- Institutional oversight
+- Incident review
+- Audit logging
+- Refusal authority
+- Autonomous decision systems
+- Post-incident evaluation
+- Review rejection criteria
+- Institutional failure modes
 
-AI governance
-
-Institutional oversight
-
-Incident review
-
-Audit logging
-
-Refusal authority
-
-Autonomous decision systems
-
-Post-incident evaluation
-
-Review rejection criteria
-
-Institutional failure modes
-
-Positioning Note
+## Positioning Note ｜ 位置づけ注記
 
 This repository does not define best practices.
 It does not represent an organization, advocacy group, or policy initiative.
@@ -163,7 +142,7 @@ It exists solely as a neutral reference object within discussions concerning ins
 
 ---
 
-## Main Function / 主機能
+## Main Function ｜ 主機能
 
 This repository is the accountability-language layer for the broader LUMINA-30 network.
 
@@ -178,12 +157,12 @@ It should help readers answer:
 主に次を扱う。
 - 事後に何を証明できなければならないか
 - 拒否有効性を制度言語でどう記述するか
-- 記録の弱さがいつ手続無効になるか
+- 記録の弱さがいつ手続的無効になるか
 - 責任連続性をどう保持するか
 
 ---
 
-## Planned aggregation role / 集約先としての役割
+## Planned Aggregation Role ｜ 集約先としての役割
 
 This repository is the natural aggregation point for minimal accountability terminology and post-hoc responsibility wording.
 
@@ -195,16 +174,17 @@ It is the appropriate destination for compact terminology and accountability-fac
 
 ---
 
-Related references:
-- Stop Authority (Reference)
-- Institutional Friction Toolkit
+## Related References ｜ 関連参照
+
+- [Stop Authority Reference ｜ 停止権限参照](https://github.com/lumina-30/stop-authority-reference)
+- [Institutional Friction Toolkit ｜ 制度摩擦ツールキット](https://github.com/lumina-30/institutional-friction-toolkit)
 - Post-Incident Review Structures
 
 ---
 
-## Related Conceptual Reference / 関連する概念参照
+## Related Conceptual Reference ｜ 関連する概念参照
 
-- [LUMINA-30 Core Boundary Reference / LUMINA-30 中核境界参照](https://github.com/lumina-30/LUMINA-30)  
+- [LUMINA-30 Core Boundary Reference ｜ LUMINA-30 中核境界参照](https://github.com/lumina-30/LUMINA-30)  
   Use this when you need the canonical boundary reference behind the accountability language.  
   説明責任言語の背後にある中核境界参照を確認する場合に使用。
 
@@ -231,16 +211,15 @@ Japanese supplementary canonical reference.
 
 ---
 
-## Structural Context / 構造上の位置づけ
+## Structural Context ｜ 構造上の位置づけ
 
-- [LUMINA-30 Overview / LUMINA-30 概要](https://github.com/lumina-30/lumina-30-overview)  
+- [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)  
   Use this for the broader conceptual overview and visual navigation.  
   全体の概念概要と視覚導線を確認する場合に使用。
 
 ---
 
-License
+## License
 
 Released under CC0 (public domain).
 No attribution required.
-
