@@ -12,11 +12,11 @@ For incident triage or boundary checks, use the incident-review repository first
 事故の初動判定や境界確認では、先に incident-review 側を使用。
 
 - [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)  
-  Use this when accountability language must be tied to a specific incident review.  
+  Use this when accountability language needs to be tied to a specific incident review.  
   具体的な事故レビューと説明責任を接続する場合に使用。
 
 - [Stop Authority Reference ｜ 停止権限参照](https://github.com/lumina-30/stop-authority-reference)  
-  Use this when the meaning of refusal authority or stop authority must be stated precisely.  
+  Use this when the meaning of refusal authority or stop authority needs precise wording.  
   refusal authority / stop authority の意味を精密に確認する場合に使用。
 
 - [Canonical Index ｜ 正典索引](https://github.com/lumina-30/Lumi30-Index)  
@@ -46,7 +46,7 @@ If you are new to this repository:
 
 ## Overview ｜ 概要
 
-This reference may be relevant to discussions on AI governance, singularity risk, refusal authority, and institutional decision accountability.
+This reference may be relevant to discussions on AI governance, irreversibility risk, refusal authority, and institutional decision accountability.
 
 ### Repository Scope ｜ リポジトリの範囲
 
@@ -55,7 +55,7 @@ This repository provides structured references related to:
 - AI governance
 - Irreversible decision risk
 - Refusal authority
-- Singularity risk
+- Irreversibility risk
 - Institutional responsibility
 - Post-incident review structures
 
@@ -97,7 +97,7 @@ No implementation guidance, enforcement model, or compliance requirement is impl
 
 ## Connection to the LUMINA-30 Boundary Question ｜ LUMINA-30境界問いへの接続
 
-This repository translates responsibility, auditability, and institutional accountability into review language. It should remain connected to the core LUMINA-30 question:
+This repository translates responsibility, auditability, and institutional accountability into review language. It remains connected to the core LUMINA-30 question:
 
 **Was Human Refusal Authority still effective before Irreversible Impact?**
 
@@ -146,18 +146,18 @@ It exists solely as a neutral reference object within discussions concerning ins
 
 This repository is the accountability-language layer for the broader LUMINA-30 network.
 
-It should help readers answer:
-- what must be provable after the fact
+It helps readers examine:
+- what evidence needs to support after-the-fact review
 - how refusal effectiveness can be described institutionally
-- when record weakness becomes procedural invalidity
+- when record weakness becomes a procedural-invalidity concern
 - how responsibility continuity can be preserved across review layers
 
 このリポジトリは、LUMINA-30ネットワーク全体における説明責任言語層である。
 
 主に次を扱う。
-- 事後に何を証明できなければならないか
+- 事後レビューを支える証拠が何か
 - 拒否有効性を制度言語でどう記述するか
-- 記録の弱さがいつ手続的無効になるか
+- 記録の弱さがいつ手続的無効性の懸念になるか
 - 責任連続性をどう保持するか
 
 ---
