@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Research Context Note ｜ 研究文脈メモ
 
 ## Repository Role ｜ リポジトリの役割
