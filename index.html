@@ -95,7 +95,23 @@
     .note { color: var(--muted); font-size: .96rem; }
     footer { border-top: 1px solid var(--line); margin-top: 2rem; padding-top: 1rem; color: var(--muted); }
     [id] { scroll-margin-top: 5rem; }
-  </style>
+  
+
+
+    .place-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: .45em;
+      margin: .45rem 0 1rem;
+      padding: .38rem .72rem;
+      border-radius: 999px;
+      border: 1px solid var(--line, var(--border, currentColor));
+      background: var(--soft, var(--panel, Canvas));
+      color: var(--text, CanvasText);
+      font-weight: 800;
+      font-size: .98rem;
+    }
+</style>
 </head>
 <body>
 <div class="topbar"><div class="topbar-inner">
@@ -110,6 +126,7 @@
   <header class="hero">
     <div class="kicker">Accountability wording layer</div>
     <h1>AI Accountability Reference</h1>
+      <div class="place-badge" aria-label="Current location">⚖️ Accountability Hall</div>
     <p class="lead">Reference wording for accountability, responsibility continuity, audit language, and institutional explanation. Use it after facts or boundary-check context are clear.</p>
   </header>
 
